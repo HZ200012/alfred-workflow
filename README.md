@@ -1,16 +1,16 @@
 # aflred自用workflow推荐
 
-* ascii码转换
+###  ascii码转换
 
-    **需要php+zsh**
+**需要php+zsh**
 
-     可以实现字符和ascii码的相互转换，直接输入ascii+空格+关键字即可,关键字可以是字符或者是字符的ascii码。
+ 可以实现字符和ascii码的相互转换，直接输入ascii+空格+关键字即可,关键字可以是字符或者是字符的ascii码。
 
-![image-20220818180641184](/Users/huangzhuo/Documents/Markdown/:Users:huangzhuo:Library:Application Support:typora-user-images:image-20220818180641184.png)
+![image-20220818180641184](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818180641184.png)
 
-  						**字符转ascii码**
+​						**字符转ascii码**
 
-![image-20220818180829797](/Users/huangzhuo/Documents/Markdown/:Users:huangzhuo:Library:Application Support:typora-user-images:image-20220818180829797.png)
+![image-20220818180829797](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818180829797.png)
 
 ​						 **ascii码转字符**
 
@@ -18,7 +18,7 @@
 
 
 
-* hash算法
+### hash算法
 
 ​	这个是我改了他人的hash算法workflow后使用的，原作者的地址在这<https://github.com/willfarrell/alfred-hash-workflow> 。
 
@@ -30,7 +30,7 @@
 
     
 
-![image-20220818181901314](/Users/huangzhuo/Documents/Markdown/:Users:huangzhuo:Library:Application Support:typora-user-images:image-20220818181901314.png)
+![image-20220818181901314](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818181901314.png)
 
 
 
