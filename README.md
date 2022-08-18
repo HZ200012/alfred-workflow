@@ -6,11 +6,11 @@
 
  可以实现字符和ascii码的相互转换，直接输入ascii+空格+关键字即可,关键字可以是字符或者是字符的ascii码。
 
-![image-20220818180641184](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818180641184.png)
+![image-20220818180641184](https://raw.fastgit.org/huangzh1229/alfred-workflow/main/image/image-20220818180641184.png)
 
 ​						**字符转ascii码**
 
-![image-20220818180829797](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818180829797.png)
+![image-20220818180829797](https://raw.fastgit.org/huangzh1229/alfred-workflow/main/image/image-20220818180829797.png)
 
 ​						 **ascii码转字符**
 
@@ -30,7 +30,7 @@
 
     
 
-![image-20220818181901314](https://github.com/huangzh1229/alfred-workflow/blob/main/image/image-20220818181901314.png)
+![image-20220818181901314](https://raw.fastgit.org/huangzh1229/alfred-workflow/main/image/image-20220818181901314.png)
 
 
 
