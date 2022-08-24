@@ -76,7 +76,7 @@
 
 ​    文件夹路径：不用解释
 
->     Example:  brew软件安装位置,`brew_software_file`,/opt/homebrew/Cellar
+>     Example:  brew软件安装位置,brew_software_file,/opt/homebrew/Cellar
 
 
 
