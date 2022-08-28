@@ -40,6 +40,8 @@
 
   将常用的各类路径储存起来，包括文件，文件夹，甚至网络路径，当我们不记得路径时，输入关键字即可查找，回车后自动粘贴至剪切板。
 
+​	除了查找之外，通过输入path open key，将查找出来的路径直接在finder中打开。
+
 >   例如，输入path brew，查询已经存储的与brew相关的路径。
 
 ![image-20220824180813283](https://raw.fastgit.org/huangzh1229/alfred-workflow/main/image/image-20220824180813283.png)
